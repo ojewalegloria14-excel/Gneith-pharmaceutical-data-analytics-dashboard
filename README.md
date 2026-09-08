@@ -1,2 +1,2 @@
-# Pharmaceutical-sales-analysis
-This repo contains a pharmaceutical sales analysis project that was done using SQL, Excel, and Power BI to uncover sales trends, product performance, revenue insights, and business opportunities.
+# pharmaceutical-data-analytics-dashboard
+What is selling? What is running out? How well are products being made? This project uses SQL and Power BI to answer these key pharmaceutical business questions.
