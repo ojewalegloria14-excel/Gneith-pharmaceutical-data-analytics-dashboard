@@ -13,6 +13,7 @@ Which products need inventory attention?
 How efficiently is production performing?
 
 **What I Did**
+
 Cleaned and prepared data using Excel, SQL, and Power BI
 Analyzed business data using SQL
 Created KPIs and interactive dashboards using Power BI and DAX
