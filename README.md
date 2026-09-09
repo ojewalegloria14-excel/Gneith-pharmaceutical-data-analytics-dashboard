@@ -5,12 +5,15 @@ GNEITH Pharmaceutical Industry is a fictional pharmaceutical company I created a
 
 I analyzed Sales, Inventory, and Production data to identify business trends and areas that may need attention.
 
-This project uses data to answer questions such as:  
+
+**This project uses data to answer questions such as:** 
+
 Which products are driving sales and revenue? 
 
 Which products need inventory attention? 
 
 How efficiently is production performing?
+
 
 **What I Did**
 
@@ -35,6 +38,7 @@ Sales — Revenue, Profit, Quantity Sold, Drug Name, Regions
 Inventory — Drug Name, Warehouse, Region, Units in Stock, Inventory Value
 
 Production — Drug Name, Units Produced, Production Cost, Yield %, Reject Rate%
+
 
 **Key Insights**
 
