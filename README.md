@@ -17,10 +17,10 @@ How efficiently is production performing?
 
 **What I Did**
 
-Cleaned and prepared data using Excel, SQL, and Power BI
-Analyzed business data using SQL
-Created KPIs and interactive dashboards using Power BI and DAX
-Identified trends and potential business issues
+I Cleaned and prepared data using Excel, SQL, and Power BI
+I Analyzed business data using SQL
+I Created KPIs and interactive dashboards using Power BI and DAX
+I Identified trends and potential business issues
 
 **Tools I used**
 
@@ -33,11 +33,11 @@ GitHub
 
 **Dashboards**
 
-Sales — Revenue, Profit, Quantity Sold, Drug Name, Regions
+Sales Dahboard for Revenue, Profit, Quantity Sold, Drug Name, Regions
 
-Inventory — Drug Name, Warehouse, Region, Units in Stock, Inventory Value
+Inventory Dashboard for Drug Name, Warehouse, Region, Units in Stock, Inventory Value
 
-Production — Drug Name, Units Produced, Production Cost, Yield %, Reject Rate%
+Production Dashboard for Drug Name, Units Produced, Production Cost, Yield %, Reject Rate%
 
 
 **Key Insights**
