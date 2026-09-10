@@ -24,11 +24,7 @@ I Identified trends and potential business issues
 
 **Tools I used**
 
-Excel 
-SQL Server, SQL 
-Power BI 
-DAX 
-GitHub
+Excel , SQL Server, SQL , Power BI, DAX, GitHub
 
 
 **Dashboards**
