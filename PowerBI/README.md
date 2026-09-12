@@ -8,4 +8,3 @@ The dashboards cover:
 - Sales
 - Inventory
 - Production
-- Executive Insights
