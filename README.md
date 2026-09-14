@@ -69,6 +69,7 @@ Turned the findings into practical actions the business could take.
 The project includes three Power BI dashboards:
 
 **Sales Dashboard**
+
 Tracks:
 
 Total Revenue
@@ -81,6 +82,7 @@ Sales channel performance
 Monthly revenue trends
 
 **Inventory Dashboard**
+
 Tracks:
 
 Inventory Value
@@ -94,6 +96,7 @@ Inventory by warehouse
 
 
 **Production Dashboard**
+
 Tracks:
 
 Total Batches
