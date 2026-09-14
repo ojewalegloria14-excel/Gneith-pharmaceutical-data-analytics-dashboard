@@ -153,6 +153,3 @@ If GNEITH acts on these findings, the company could:
  3. Lower the risk of waste from products approaching expiry.
     
  4. Reduce production waste and improve product quality.
-
-
-Insights and business recommendations are based on the results of the completed analysis.
